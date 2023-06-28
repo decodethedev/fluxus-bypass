@@ -34,6 +34,7 @@ This script allows you to bypass Fluxus Windows Key System and retrieve the key 
 ## Donations
 
    If you found this useful and wants to donate to me for projects like this:
+
    BTC: bc1q6n24d4wxa3eljch069y9tn9x24s5x939l5l5kr
    LTC: LiRWGyuu5ZGf2pVp67iui1Wwjsk2v5iNaH
    ETH: 0x5CB5e56D273B9E9A79C4633b414a87F243728Ce4
