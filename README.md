@@ -5,9 +5,9 @@ This script allows you to bypass Fluxus Windows Key System and retrieve the key 
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.x (https://www.python.org/downloads/ make sure you have python to run this)
 - Requests library
-- Operating System: Windows/Linux/Macos (As long as it can run Python 3.x)
+- Operating System: (As long as it can run Python 3.x)
 
 ## Getting Started
 
